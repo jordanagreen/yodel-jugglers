@@ -1,0 +1,2 @@
+# Juggle Fest
+My solution to the Yodel Juggle Fest coding problem. Given a list of jugglers, each with three numerical stats (hand-eye coordination, endurance, and pizzazz) and a list of circuits which also have those three values, define a juggler's compatibility with a given circuit by the dot product of their stats. Each juggler has a list of circuits they would prefer to be in, and the problem is to assign them such that no juggler could be placed in a circuit they prefer more and also be a better fit for it than one of the jugglers already in there.
